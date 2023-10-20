@@ -18,6 +18,8 @@ This project contains the following files:
 
 3. **city_day.csv**: This dataset file contains historical air quality data that was used to train and test the model. It serves as the source of data for making predictions.
 
+4. **Air Quality Prediction with Spyder.py**: This central script serves as the core code for predicting air quality using the Spyder IDE and deploying the model via Streamlit. It integrates the prediction model with Streamlit for user-friendly air quality assessments.
+
 ## About
 I created an air quality prediction model to estimate air quality in a given location based on various environmental parameters. This project aims to provide an accessible and user-friendly way to predict air quality, which is essential for public health, environmental monitoring, and urban planning. The predictions can be used to raise awareness about air quality issues, develop policies, and implement interventions to improve air quality. This project's goal is to make air quality prediction accessible to a wider audience, enabling anyone to assess and monitor air quality in their region.
 
