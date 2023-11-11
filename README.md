@@ -28,5 +28,7 @@ Feel free to use the provided model and tools for your own air quality predictio
 ## Troubleshooting
 If you have any questions or suggestions, please don't hesitate to reach out.
 
+Happy predicting! 🤖💙
+
 ## Author 
 Sudhanshu Ambastha
