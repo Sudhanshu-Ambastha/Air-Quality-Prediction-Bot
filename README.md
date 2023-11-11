@@ -23,5 +23,10 @@ This project contains the following files:
 ## About
 I created an air quality prediction model to estimate air quality in a given location based on various environmental parameters. This project aims to provide an accessible and user-friendly way to predict air quality, which is essential for public health, environmental monitoring, and urban planning. The predictions can be used to raise awareness about air quality issues, develop policies, and implement interventions to improve air quality. This project's goal is to make air quality prediction accessible to a wider audience, enabling anyone to assess and monitor air quality in their region.
 
-Feel free to use the provided model and tools for your own air quality predictions and research. If you have any questions or suggestions, please don't hesitate to reach out.
+Feel free to use the provided model and tools for your own air quality predictions and research. 
 
+## Troubleshooting
+If you have any questions or suggestions, please don't hesitate to reach out.
+
+## Author 
+Sudhanshu Ambastha
