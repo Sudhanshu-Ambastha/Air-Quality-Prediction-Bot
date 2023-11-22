@@ -9,7 +9,7 @@ import pandas as pd
 from sklearn.ensemble import RandomForestRegressor
 
 # Load your data into a DataFrame
-data = pd.read_csv('C:/Users/sudha/Downloads/Disease prediction/Air quality prediction/city_day.csv', na_values='=')
+data = pd.read_csv('data/city_day.csv', na_values='=')
 
 # Fill missing values with means for numeric columns
 numeric_columns = data.select_dtypes(include=['number']).columns
