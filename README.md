@@ -31,4 +31,4 @@ If you have any questions or suggestions, please don't hesitate to reach out.
 Happy predicting! 🤖💙
 
 ## Author 
-Sudhanshu Ambastha
+[Sudhanshu Ambastha](https://github.com/Sudhanshu-Ambastha)
