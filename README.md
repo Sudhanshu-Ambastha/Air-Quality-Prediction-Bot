@@ -31,4 +31,6 @@ If you have any questions or suggestions, please don't hesitate to reach out.
 Happy predicting! 🤖💙
 
 ## Author 
-[Sudhanshu Ambastha](https://github.com/Sudhanshu-Ambastha)
+<a href = "https://github.com/Sudhanshu-Ambastha/Air-Quality-Prediction-Bot/contributors">
+  <img src = "https://contrib.rocks/image?repo=Sudhanshu-Ambastha/Air-Quality-Prediction-Bot"/>
+</a>
